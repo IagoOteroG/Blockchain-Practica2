@@ -1,0 +1,8 @@
+UNIVERSIDAD DE PRUEBA
+Certificado académico
+
+Alumno: Juan Pérez
+Titulación: Ingeniería Informática
+Fecha de expedición: 17/11/2026
+
+Documento ficticio para prácticas de Blockchain.
